@@ -27,7 +27,7 @@ No Installation is needed to use this project. If you would like to build on to 
 [Click to view our deployed GitHub Page](https://github.com/britt-young/get_your_list_together)
 
 ## Deployed Project Link
-[Click to view our deployed GitHub Page](https://floating-fjord-04343-9ca8038d4e88.herokuapp.com/login)
+[Click to view our deployed GitHub Page](https://group-2-gylt-ce71d82f3e64.herokuapp.com/)
 
 ## Screenshot
 ![](/project-screenshot.png)
